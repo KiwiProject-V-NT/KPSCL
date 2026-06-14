@@ -1,4 +1,6 @@
-# KPSCL - MAY 2026
+updated 14.06.2026
+
+# KPSCL - JUNE 2026
 
 KiwiProject Software & Content License (KPSCL) v1.2
 
